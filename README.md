@@ -1,2 +1,2 @@
 # python-exercises
-My resolutions to exercises proposed im Python classes
+My resolutions to exercises proposed in Python classes
